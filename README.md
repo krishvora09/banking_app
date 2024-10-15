@@ -1,2 +1,2 @@
-These are basic setup files
-Our project is made using ReactJS, NextJS, Plaid(for financial works UPI) and shadcn/ui(This is React components library). 
+The Home Page UI is created.
+The major updates are adding Greeting Message, Balance Box with a chart in it.
